@@ -1,0 +1,24 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "info.kamakura/kamakura-trip-planner",
+  "title": "Kamakura Trip Planner",
+  "description": "Kamakura and Enoshima day plans, Enoden fares and passes, bloom dates, sights and walking times.",
+  "websiteUrl": "https://kamakura.info/ai-assistants/",
+  "version": "1.0.1",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://kamakura.info/mcp?src=mcp"
+    }
+  ],
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "kamakura-trip-planner-mcp",
+      "version": "1.0.0",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
