@@ -66,7 +66,7 @@ Local stdio bridge (Node.js 18+):
 
 ## Data and privacy
 
-Fares come from JR East, Odakyu and the Enoshima Electric Railway; bloom dates from Japan Meteorological Agency observations at Yokohama; hours and fees from the temples and sights; walking times from OpenStreetMap routing. Every answer links to the matching page on kamakura.info with its sources.
+Fares come from JR East, Odakyu and the Enoshima Electric Railway; bloom dates from Japan Meteorological Agency observations at Yokohama; hours and fees from the temples and sights; walking times from the temples' and the city's own pages where they give one, the rest from OpenStreetMap routing. Every answer links to the matching page on kamakura.info with its sources.
 
 The server asks for no name, contact or payment details and does not store or log requests. Privacy: [kamakura.info/privacy](https://kamakura.info/privacy/#ai-assistants). Terms: [kamakura.info/terms](https://kamakura.info/terms/).
 
