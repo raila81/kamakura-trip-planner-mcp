@@ -1,0 +1,16 @@
+{
+  "name": "kamakura-trip-planner-mcp",
+  "version": "1.0.0",
+  "description": "Kamakura trip planning tools for AI assistants (MCP): day plans, Enoden fares and passes, bloom dates, sights, walking times and getting there from Tokyo.",
+  "mcpName": "info.kamakura/kamakura-trip-planner",
+  "type": "module",
+  "bin": { "kamakura-trip-planner-mcp": "index.js" },
+  "files": ["index.js", "README.md", "LICENSE"],
+  "engines": { "node": ">=18" },
+  "keywords": ["mcp", "model-context-protocol", "kamakura", "enoshima", "japan", "tokyo", "travel", "trip-planner", "itinerary", "enoden", "hydrangea", "chatgpt", "claude"],
+  "homepage": "https://kamakura.info/ai-assistants/",
+  "repository": { "type": "git", "url": "git+https://github.com/raila81/kamakura-trip-planner-mcp.git" },
+  "bugs": { "url": "https://github.com/raila81/kamakura-trip-planner-mcp/issues" },
+  "author": "Rainer Lang <info@kamakura.info>",
+  "license": "MIT"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "kamakura-trip-planner",
+  "version": "1.0.0",
+  "description": "Kamakura and Enoshima day plans, Enoden fares and passes, bloom dates, sights and walking times.",
+  "mcpServers": {
+    "kamakura-trip-planner": {
+      "httpUrl": "https://kamakura.info/mcp?src=mcp"
+    }
+  }
+}
